@@ -1,4 +1,4 @@
-package br.com.dev.restwithspringbootandkotlin
+package br.com.dev
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
